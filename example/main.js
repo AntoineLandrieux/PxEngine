@@ -1,9 +1,9 @@
-import { Camera } from "./../src/PxEngine/classes/Camera.js";
-import { Collider } from "./../src/PxEngine/classes/Collide.js";
-import { Entity } from "./../src/PxEngine/classes/Entity.js";
-import { Player } from "./../src/PxEngine/classes/Player.js";
-import { SpriteConfiguration } from "./../src/PxEngine/classes/SpriteConfiguration.js";
-import { WorldMap } from "./../src/PxEngine/classes/WorldMap.js";
+import { Camera } from "./../lib/PxEngine/classes/Camera.js";
+import { Collider } from "./../lib/PxEngine/classes/Collide.js";
+import { Entity } from "./../lib/PxEngine/classes/Entity.js";
+import { Player } from "./../lib/PxEngine/classes/Player.js";
+import { SpriteConfiguration } from "./../lib/PxEngine/classes/SpriteConfiguration.js";
+import { WorldMap } from "./../lib/PxEngine/classes/WorldMap.js";
 
 import { Example } from "./Maps/Example.js";
 
